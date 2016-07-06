@@ -1,4 +1,4 @@
-# Your First (Several) Asynchronous Requests
+## Your First (Several) Asynchronous Requests
 
 ## Review (Synchronous vs. Asynchronous)
 You are already a pro at making HTTP requests from your Browser to your Server. For instance, when you click a link, submit a form, or enter a new address into your browser bar, you are firing off an HTTP request. You've learned to make your server send back different types of data in text, HTML, JSON, and other formats, and how to redirect the browser to another location.
